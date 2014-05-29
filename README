@@ -1,9 +1,5 @@
-http://foundry.zepheira.com/projects/zen
+https://github.com/zepheira/zenpub
 
 To build the Zen package, see: NOTES
 
-For development and maintenance, see:
-
-http://foundry.zepheira.com/projects/zen/wiki/Dev
-
-
+(formerly a Mercurial repository located at `https://foundry.zepheira.com/hg/zenpub`)
